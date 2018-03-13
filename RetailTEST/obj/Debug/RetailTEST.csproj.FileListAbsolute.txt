@@ -1,0 +1,17 @@
+C:\Users\curti_000\source\repos\RetailTEST\RetailTEST\bin\Debug\RetailTEST.exe.config
+C:\Users\curti_000\source\repos\RetailTEST\RetailTEST\bin\Debug\RetailTEST.exe
+C:\Users\curti_000\source\repos\RetailTEST\RetailTEST\bin\Debug\RetailTEST.pdb
+C:\Users\curti_000\source\repos\RetailTEST\RetailTEST\obj\Debug\RetailTEST.csprojResolveAssemblyReference.cache
+C:\Users\curti_000\source\repos\RetailTEST\RetailTEST\obj\Debug\MainWindow.g.cs
+C:\Users\curti_000\source\repos\RetailTEST\RetailTEST\obj\Debug\App.g.cs
+C:\Users\curti_000\source\repos\RetailTEST\RetailTEST\obj\Debug\RetailTEST_MarkupCompile.cache
+C:\Users\curti_000\source\repos\RetailTEST\RetailTEST\obj\Debug\RetailTEST_MarkupCompile.lref
+C:\Users\curti_000\source\repos\RetailTEST\RetailTEST\obj\Debug\MainWindow.baml
+C:\Users\curti_000\source\repos\RetailTEST\RetailTEST\obj\Debug\RetailTEST.g.resources
+C:\Users\curti_000\source\repos\RetailTEST\RetailTEST\obj\Debug\RetailTEST.Properties.Resources.resources
+C:\Users\curti_000\source\repos\RetailTEST\RetailTEST\obj\Debug\RetailTEST.csproj.GenerateResource.Cache
+C:\Users\curti_000\source\repos\RetailTEST\RetailTEST\obj\Debug\RetailTEST.csproj.CoreCompileInputs.cache
+C:\Users\curti_000\source\repos\RetailTEST\RetailTEST\obj\Debug\RetailTEST.exe
+C:\Users\curti_000\source\repos\RetailTEST\RetailTEST\obj\Debug\RetailTEST.pdb
+C:\Users\curti_000\source\repos\RetailTEST\RetailTEST\bin\Debug\Microsoft.HockeyApp.Core45.dll
+C:\Users\curti_000\source\repos\RetailTEST\RetailTEST\bin\Debug\Microsoft.HockeyApp.Kit.dll

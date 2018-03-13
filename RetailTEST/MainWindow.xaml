@@ -1,0 +1,19 @@
+﻿<Window x:Class="RetailTEST.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RetailTEST"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="70,115,0,0" TextWrapping="Wrap" Text="First integer" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="324,115,0,0" TextWrapping="Wrap" Text="Second Integer" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="button" Content="Display" HorizontalAlignment="Left" Margin="218,167,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="70,53,0,0" TextWrapping="Wrap" Text="Insert two integers then press &quot;Display.&quot;  A message will show the sum." VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="250,116,0,0" TextWrapping="Wrap" Text="+" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="190,167,0,0" TextWrapping="Wrap" Text="=" VerticalAlignment="Top"/>
+        <Button x:Name="crashButton" Content="Crash!" HorizontalAlignment="Left" Margin="218,249,0,0" VerticalAlignment="Top" Width="75" Click="crashButton_Click"/>
+
+    </Grid>
+</Window>
