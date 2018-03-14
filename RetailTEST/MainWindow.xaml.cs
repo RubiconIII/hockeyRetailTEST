@@ -43,7 +43,7 @@ namespace RetailTEST
 
         private void crashButton_Click(object sender, RoutedEventArgs e)
         {
-            throw new NullReferenceException();
+            throw new ArgumentNullException();
         }
     }
 }
